@@ -1,2 +1,9 @@
-# it3038c-scripts
-it3038c-scripts
+My app
+====
+
+#This is my App
+
+```javascript
+Javascript code block to highlight whats happening in my code
+
+
